@@ -4,12 +4,17 @@ Repository to host the project developed for Tecnologias Web, a second year subj
 
 ## Short theme description
 
-\ No âmbito da cadeira de Tecnologias Web, foi proposto à turma de Tecnologias de Comunicação e Multimédia do 2º ano, desenvolver e criar um Site Web com recurso a XML, HTML5, CSS3 e Javascript. Para respondermos a esta proposta decidimos criar o Sitio Web de uma produtora musical à qual chamamos TriSound.
+No âmbito da cadeira de Tecnologias Web, foi proposto à turma de Tecnologias de Comunicação e Multimédia do 2º ano, desenvolver e criar um Site Web com recurso a XML, HTML5, CSS3 e Javascript. Para respondermos a esta proposta decidimos criar o Sitio Web de uma produtora musical à qual chamamos TriSound.
 Posto isto o nosso projeto é então relacionado com a indústria musical, e precisamos por isso de explorar o que um produtor musical, produtor discográfico ou produtor executivo faz.
-\ Uma produtora, onde um produtor musical, produtor discográfico ou produtor executivo trabalham, e que é responsável por controlar as sessões de gravação, ensaiar, guiar os músicos, fazer supervisões do processo de mixagem e de masterização do aúdio que está a trabalhar, e também é responsável por completar e editar uma gravação ou reprodução sonora para que esteja pronta para o seu lançamento.
-\ Decidimos escolher esta vertente, uma vez que é um tema de que todas gostamos muito, e por isso achamos que era interessante explorar algo que fosse comum às três. Também gostávamos de compreender melhor esta indústria e portanto entrar um pouco no ramo.
+
+Uma produtora, onde um produtor musical, produtor discográfico ou produtor executivo trabalham, e que é responsável por controlar as sessões de gravação, ensaiar, guiar os músicos, fazer supervisões do processo de mixagem e de masterização do aúdio que está a trabalhar, e também é responsável por completar e editar uma gravação ou reprodução sonora para que esteja pronta para o seu lançamento.
+
+Decidimos escolher esta vertente, uma vez que é um tema de que todas gostamos muito, e por isso achamos que era interessante explorar algo que fosse comum às três. Também gostávamos de compreender melhor esta indústria e portanto entrar um pouco no ramo.
+
 Na página inicial do nosso sitio Web vai constar uma apresentação da nossa produtora. Nesta apresentação descreverá estar descrita a história da produtora musical, todos os artistas que já passaram por lá e os álbuns mais significantes que foram produzidos. Também deverá constar o contacto da produtora: telefone, telemóvel, email e página de Instagram; e a sua localização.
+
 No seguimento das nossas quatro páginas vamos colocar os artistas que estão a trabalhar connosco de momento e os respetivos álbuns. Vamos também explorar cinco desses artistas, contar a sua história (como começaram no mundo da música e quando começaram a trabalhar com a nossa produtora), e com recurso a tabelas vamos referir os álbuns já produzidos por cada um desses cinco artistas, e expor o horário de gravação.
+
 Por conseguinte, escolhemos usar artistas já conceituados e que fazem parte de outras produtoras musicais, mas utilizamo-los como se pertencessem à nossa produtora. Os nossos vedetas serão então: Amy Winehouse, Tyler The Creator, Blood Orange, The Internet e Steve Lacy
 
 ## Repository organization
