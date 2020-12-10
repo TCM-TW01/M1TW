@@ -1,6 +1,6 @@
 # Projeto Trisound
 
-Repository to host the project developed for Tecnologias Web, a second year subject at ISMAI. Developed by Group TCM-TW01 : [@SofiaGomes36767] (https://github.com/SofiaGomes36767), [@catiaramos12] (https://github.com/catiaramos12), [@car0linabarr0s] (https://github.com/car0linabarr0s)
+Repository to host the project developed for Tecnologias Web, a second year subject at ISMAI. Developed by Group TCM-TW01 : [@SofiaGomes36767](https://github.com/SofiaGomes36767), [@catiaramos12](https://github.com/catiaramos12), [@car0linabarr0s](https://github.com/car0linabarr0s)
 
 ## Short theme description
 
@@ -49,6 +49,6 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 * C4: [Presentation](doc/c4.md)
 
 ## Team
-* Cátia Patrícia Vieira Ramos [@catiaramos12] (https://github.com/catiaramos12)
-* Maria Carolina Moreira Barros [@car0linabarr0s] (https://github.com/car0linabarr0s)
-* Sofia Daniela da Costa Gomes [@SofiaGomes36767] (https://github.com/SofiaGomes36767)
+* Cátia Patrícia Vieira Ramos [@catiaramos12](https://github.com/catiaramos12)
+* Maria Carolina Moreira Barros [@car0linabarr0s](https://github.com/car0linabarr0s)
+* Sofia Daniela da Costa Gomes [@SofiaGomes36767](https://github.com/SofiaGomes36767)
