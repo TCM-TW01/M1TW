@@ -1,6 +1,6 @@
 # My work assignment Title
 
-Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ZETA : [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
+Repository to host the project developed for Tecnologias Web, a second year subject at ISMAI. Developed by Group TCM-TW01 : [@SofiaGomes36767] (https://github.com/SofiaGomes36767), [@catiaramos12] (https://github.com/catiaramos12), [@car0linabarr0s] (https://github.com/car0linabarr0s)
 
 ## Short theme description
 
