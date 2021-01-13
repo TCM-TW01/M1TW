@@ -15,7 +15,7 @@ Na página inicial do nosso sitio Web vai constar uma apresentação da nossa pr
 
 No seguimento das nossas quatro páginas vamos colocar os artistas que estão a trabalhar connosco de momento e os respetivos álbuns. Vamos também explorar cinco desses artistas, contar a sua história (como começaram no mundo da música e quando começaram a trabalhar com a nossa produtora), e com recurso a tabelas vamos referir os álbuns já produzidos por cada um desses cinco artistas, e expor o horário de gravação.
 
-Por conseguinte, escolhemos usar artistas já conceituados e que fazem parte de outras produtoras musicais, mas utilizamo-los como se pertencessem à nossa produtora. Os nossos vedetas serão então: Amy Winehouse, Tyler The Creator, Blood Orange, The Internet e Steve Lacy
+Por conseguinte, escolhemos usar artistas já conceituados e que fazem parte de outras produtoras musicais, mas utilizamo-los como se pertencessem à nossa produtora. Os nossos vedetas serão então: Amy Winehouse, Tyler The Creator, Blood Orange, The Internet e Steve Lacy.
 
 ## Repository organization
 
